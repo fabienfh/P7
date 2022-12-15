@@ -4,3 +4,4 @@ pandas==1.5.1
 requests==2.25.1
 scikit-learn
 catboost
+gunicorn
